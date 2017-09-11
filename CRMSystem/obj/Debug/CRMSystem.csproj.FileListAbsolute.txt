@@ -1,0 +1,11 @@
+D:\programming\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe.config
+D:\programming\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe
+D:\programming\CRMSystem\CRMSystem\bin\Debug\CRMSystem.pdb
+D:\programming\CRMSystem\CRMSystem\bin\Debug\Faker.dll
+D:\programming\CRMSystem\CRMSystem\bin\Debug\Faker.NET4.dll
+D:\programming\CRMSystem\CRMSystem\bin\Debug\WebDriver.dll
+D:\programming\CRMSystem\CRMSystem\bin\Debug\WebDriver.xml
+D:\programming\CRMSystem\CRMSystem\bin\Debug\de-DE\Faker.NET4.resources.dll
+D:\programming\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csprojResolveAssemblyReference.cache
+D:\programming\CRMSystem\CRMSystem\obj\Debug\CRMSystem.exe
+D:\programming\CRMSystem\CRMSystem\obj\Debug\CRMSystem.pdb
