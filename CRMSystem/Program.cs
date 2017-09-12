@@ -15,7 +15,7 @@ namespace CRMSystem
     {
         static void Main(string[] args)
         {
-            IWebDriver driver = new FirefoxDriver();// new ChromeDriver();
+            IWebDriver driver = new FirefoxDriver();
             WebDriverWait  _waitDriver = new WebDriverWait(driver, TimeSpan.FromSeconds(11));
             driver.Navigate().GoToUrl("http://crm.altsolution.ua/clients");
 
