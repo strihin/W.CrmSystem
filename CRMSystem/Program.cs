@@ -37,7 +37,7 @@ namespace CRMSystem
                 IWebElement companySubmit = _waitDriver.Until(m => m.FindElement(By.Name("submit")));
                
                 var name = Faker.Company.Name();
-                var phone = Faker.Phone.Number()+"0000";
+                var phone = Faker.Phone.Number()+Faker.Phone.Number();
                 var emailInput = Faker.Internet.Email();
 
                 companyName.Click();
